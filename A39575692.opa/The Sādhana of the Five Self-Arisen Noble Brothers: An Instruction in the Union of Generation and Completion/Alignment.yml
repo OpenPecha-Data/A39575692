@@ -1,0 +1,16 @@
+segment_sources:
+  P34660EE6:
+    type: origin_type
+    relation: translation
+    language: en
+  P5237D7A2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e2fd3a5d1af449e597d7b69c58c24b8e:
+    P34660EE6: efcc19bb60a8498d9ee9834c6f5524cb
+    P5237D7A2: 7c416ee6c8d2478eaf2836510436b957
+  20a84f0762d44955bc8238a0afc6fff6:
+    P34660EE6: 065164a7c30a41f7b9a915fc1f06d2ce
+    P5237D7A2: 567b20981e2049ea92deef41e23af281
